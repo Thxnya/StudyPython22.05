@@ -1,2 +1,2 @@
 # StudyPython22.05
-numpy, pandas 학습
+Python Numpy, Pandas 학습
