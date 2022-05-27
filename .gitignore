@@ -128,3 +128,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 data
+/day4/scientist_df.csv
+/day4/scientist_names_series.csv
+/day4/scientists_df.pickle
+/day4/scientists_names_series.pickle
+/day4/scientists_names_series_df.xls
+/day4/scientists_names_series_df.xlsx
