@@ -1,5 +1,5 @@
 # StudyPython22.05
-Python Numpy, Pandas 학습
+2022 빅데이터 분석 과정 - Numpy, Pandas 학습
 
 ## Day 1
 - Numpy 기초
